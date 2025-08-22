@@ -1,12 +1,11 @@
-# React + Vite
+# React_Project 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Dice_Game
 
-Currently, two official plugins are available:
+<img width="854" height="502" alt="2025-07-01 23_10_46-Learn React with 10 Projects – Figma" src="https://github.com/user-attachments/assets/e3cd7b69-14c2-4f42-bfe2-1a723a1d021a" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+<img width="849" height="500" alt="2025-07-01 23_11_36-Learn React with 10 Projects – Figma" src="https://github.com/user-attachments/assets/39f6a888-1644-42ed-a5a0-9081927570ab" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+<img width="843" height="638" alt="2025-07-01 23_12_01-Learn React with 10 Projects – Figma" src="https://github.com/user-attachments/assets/2960d2c8-b663-43d2-a8c6-0b008c0f0b56" />
